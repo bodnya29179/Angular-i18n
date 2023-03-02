@@ -1,0 +1,6 @@
+{
+  "someGroup": {
+    "example": "Перевірка перекладу",
+    "exampleWithParams": "Сьогодні {{day}}!"
+  }
+}
