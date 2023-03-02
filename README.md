@@ -1,4 +1,4 @@
-# AngularI18n
+# Angular i18n
 
 ## Installation
 
